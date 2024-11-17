@@ -1,0 +1,902 @@
+[
+    {
+        "id": "899f57df-8662-46f5-9b20-173980234b7d",
+        "name": "Producto 1",
+        "stock": 46,
+        "price": 468.05,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/200",
+        "category": "populares"
+    },
+    {
+        "id": "fbe5ca4a-1187-439b-8725-fd7e03867197",
+        "name": "Producto 2",
+        "stock": 100,
+        "price": 878.42,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/201",
+        "category": "ofertas"
+    },
+    {
+        "id": "ce3437e0-2261-41af-9aa9-cc67c6ad2bec",
+        "name": "Producto 3",
+        "stock": 92,
+        "price": 297.65,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/202",
+        "category": "destacados"
+    },
+    {
+        "id": "5a44f131-2f31-4c04-b32f-dce1a4a73b3a",
+        "name": "Producto 4",
+        "stock": 58,
+        "price": 510.49,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/203",
+        "category": "populares"
+    },
+    {
+        "id": "e5e79c99-7798-4dfe-a6cb-d58ef195d0bc",
+        "name": "Producto 5",
+        "stock": 1,
+        "price": 121.87,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/204",
+        "category": "destacados"
+    },
+    {
+        "id": "b970468a-3d49-4e22-a6a1-8542cc43e9ec",
+        "name": "Producto 6",
+        "stock": 25,
+        "price": 587.27,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/205",
+        "category": "nuevos"
+    },
+    {
+        "id": "252bd8a3-1139-4fe4-b31e-482004732b80",
+        "name": "Producto 7",
+        "stock": 27,
+        "price": 198.51,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/206",
+        "category": "populares"
+    },
+    {
+        "id": "fbca09e8-b80c-40d2-89f5-1008b730181b",
+        "name": "Producto 8",
+        "stock": 55,
+        "price": 898.6,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/207",
+        "category": "ofertas"
+    },
+    {
+        "id": "93ddfeef-a841-4c6d-af4d-7bc3eb0fd408",
+        "name": "Producto 9",
+        "stock": 21,
+        "price": 715.29,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/208",
+        "category": "nuevos"
+    },
+    {
+        "id": "2e6d2661-16d0-45b9-98ac-bd3d583bce40",
+        "name": "Producto 10",
+        "stock": 33,
+        "price": 106.89,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/209",
+        "category": "populares"
+    },
+    {
+        "id": "bfdafd8f-9254-48ba-a7e1-453cd32ab6b4",
+        "name": "Producto 11",
+        "stock": 36,
+        "price": 272.66,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/210",
+        "category": "nuevos"
+    },
+    {
+        "id": "66f0f579-dc73-40b1-8c5b-2e5546ce19d1",
+        "name": "Producto 12",
+        "stock": 79,
+        "price": 790.03,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/211",
+        "category": "populares"
+    },
+    {
+        "id": "7363de8c-cebb-49c9-9ec5-279f60857c8f",
+        "name": "Producto 13",
+        "stock": 70,
+        "price": 638.6,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/212",
+        "category": "populares"
+    },
+    {
+        "id": "f7e061c7-6f70-400a-9f91-c726c1b95f81",
+        "name": "Producto 14",
+        "stock": 9,
+        "price": 827.1,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/213",
+        "category": "nuevos"
+    },
+    {
+        "id": "a5c6129c-c8aa-4af5-b8ae-55160139fb65",
+        "name": "Producto 15",
+        "stock": 63,
+        "price": 216.24,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/214",
+        "category": "populares"
+    },
+    {
+        "id": "abdbb970-fa9e-49e2-9593-c30665b426bf",
+        "name": "Producto 16",
+        "stock": 16,
+        "price": 339.71,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/215",
+        "category": "populares"
+    },
+    {
+        "id": "4156ff49-8218-4bb9-8f4c-25f3e50bee7d",
+        "name": "Producto 17",
+        "stock": 57,
+        "price": 374.69,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/216",
+        "category": "ofertas"
+    },
+    {
+        "id": "0110e510-43ef-44ab-973c-f68cf1398f5b",
+        "name": "Producto 18",
+        "stock": 2,
+        "price": 817.73,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/217",
+        "category": "nuevos"
+    },
+    {
+        "id": "46309d56-6719-45e1-b3d2-928705fbcb3d",
+        "name": "Producto 19",
+        "stock": 73,
+        "price": 394.98,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/218",
+        "category": "populares"
+    },
+    {
+        "id": "bff2b624-8eb9-4623-b94f-48c578d94caa",
+        "name": "Producto 20",
+        "stock": 37,
+        "price": 180.21,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/219",
+        "category": "ofertas"
+    },
+    {
+        "id": "a0315265-2ae6-4459-96b3-a1ff02ca0c77",
+        "name": "Producto 21",
+        "stock": 90,
+        "price": 457.48,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/220",
+        "category": "nuevos"
+    },
+    {
+        "id": "32f6fa9f-9692-4b77-a647-938c88da88d7",
+        "name": "Producto 22",
+        "stock": 100,
+        "price": 613.78,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/221",
+        "category": "nuevos"
+    },
+    {
+        "id": "12178cd4-699f-4330-a348-9875580b9763",
+        "name": "Producto 23",
+        "stock": 80,
+        "price": 557.22,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/222",
+        "category": "populares"
+    },
+    {
+        "id": "164e281e-d22b-445a-acaf-054a28e5fa7d",
+        "name": "Producto 24",
+        "stock": 64,
+        "price": 896.99,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/223",
+        "category": "populares"
+    },
+    {
+        "id": "7540af5a-2211-48d8-830c-a70e84d8a575",
+        "name": "Producto 25",
+        "stock": 16,
+        "price": 668.87,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/224",
+        "category": "populares"
+    },
+    {
+        "id": "3233fe80-f5c3-4237-9136-14fa02bc65c0",
+        "name": "Producto 26",
+        "stock": 23,
+        "price": 576.49,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/225",
+        "category": "destacados"
+    },
+    {
+        "id": "ecb2f1c3-b5f1-495a-8f1b-a3b20ad83fd1",
+        "name": "Producto 27",
+        "stock": 17,
+        "price": 164.67,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/226",
+        "category": "ofertas"
+    },
+    {
+        "id": "0c2bf216-54ef-4fbe-9114-a6ec784e6db2",
+        "name": "Producto 28",
+        "stock": 96,
+        "price": 995.57,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/227",
+        "category": "populares"
+    },
+    {
+        "id": "3251a438-2d8b-46fc-b4e1-7e714e5e4372",
+        "name": "Producto 29",
+        "stock": 98,
+        "price": 25.98,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/228",
+        "category": "destacados"
+    },
+    {
+        "id": "13f1a9ad-c199-44e0-b5b4-bc8f7c3229d2",
+        "name": "Producto 30",
+        "stock": 49,
+        "price": 450.69,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/229",
+        "category": "ofertas"
+    },
+    {
+        "id": "0dfc4b76-395f-4893-8e4f-04de3972eae9",
+        "name": "Producto 31",
+        "stock": 96,
+        "price": 113.55,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/230",
+        "category": "nuevos"
+    },
+    {
+        "id": "d8cd46e5-349d-4caf-b2df-79d790155d2d",
+        "name": "Producto 32",
+        "stock": 90,
+        "price": 519.06,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/231",
+        "category": "nuevos"
+    },
+    {
+        "id": "649b725e-6760-455e-b9f6-9e502602ca4e",
+        "name": "Producto 33",
+        "stock": 56,
+        "price": 249.86,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/232",
+        "category": "nuevos"
+    },
+    {
+        "id": "6e298560-78a0-4c50-ba27-3a4a424e5a75",
+        "name": "Producto 34",
+        "stock": 42,
+        "price": 880.13,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/233",
+        "category": "destacados"
+    },
+    {
+        "id": "8e4dae84-f838-41eb-ad62-43b9f5a75464",
+        "name": "Producto 35",
+        "stock": 31,
+        "price": 527.71,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/234",
+        "category": "destacados"
+    },
+    {
+        "id": "7ca23d53-8cf5-4eb5-9a8c-d1372398ee9f",
+        "name": "Producto 36",
+        "stock": 11,
+        "price": 930.39,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/235",
+        "category": "destacados"
+    },
+    {
+        "id": "a702de8b-ad41-4ef5-a696-5b01fb393f65",
+        "name": "Producto 37",
+        "stock": 23,
+        "price": 448.37,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/236",
+        "category": "destacados"
+    },
+    {
+        "id": "1b6e827c-01fb-4c9f-84c4-1043b23c440f",
+        "name": "Producto 38",
+        "stock": 24,
+        "price": 94.04,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/237",
+        "category": "ofertas"
+    },
+    {
+        "id": "bcade08c-a163-49a2-a165-d1abb2aa4c23",
+        "name": "Producto 39",
+        "stock": 100,
+        "price": 819.03,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/238",
+        "category": "populares"
+    },
+    {
+        "id": "60293d0d-a9e3-4cbc-a00e-9a945be64a19",
+        "name": "Producto 40",
+        "stock": 36,
+        "price": 642.43,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/239",
+        "category": "ofertas"
+    },
+    {
+        "id": "b5d47375-cf65-493b-a440-88f1a284b323",
+        "name": "Producto 41",
+        "stock": 9,
+        "price": 89.73,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/240",
+        "category": "destacados"
+    },
+    {
+        "id": "88528c55-3651-4f63-97b5-534ff26e2449",
+        "name": "Producto 42",
+        "stock": 44,
+        "price": 118.89,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/241",
+        "category": "ofertas"
+    },
+    {
+        "id": "8da46c97-c09b-4126-b909-b6e8e317ab48",
+        "name": "Producto 43",
+        "stock": 60,
+        "price": 213.11,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/242",
+        "category": "nuevos"
+    },
+    {
+        "id": "44cfc6d5-f51a-4b9a-b565-c61ce3ceca4a",
+        "name": "Producto 44",
+        "stock": 23,
+        "price": 106.07,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/243",
+        "category": "destacados"
+    },
+    {
+        "id": "dca818ab-a59b-4209-88fa-b1f9724eac9a",
+        "name": "Producto 45",
+        "stock": 23,
+        "price": 330.94,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/244",
+        "category": "ofertas"
+    },
+    {
+        "id": "cc2c7d3e-2329-482e-b8f6-2afe1b227b1a",
+        "name": "Producto 46",
+        "stock": 20,
+        "price": 829.96,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/245",
+        "category": "destacados"
+    },
+    {
+        "id": "0d8e1eb6-9a68-428f-ba6d-08bae0664643",
+        "name": "Producto 47",
+        "stock": 88,
+        "price": 385.71,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/246",
+        "category": "destacados"
+    },
+    {
+        "id": "20c82b2a-1fdc-4fc6-aa47-4583906c90e1",
+        "name": "Producto 48",
+        "stock": 63,
+        "price": 595.95,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/247",
+        "category": "destacados"
+    },
+    {
+        "id": "50f466db-69ac-4a17-9c3a-f210e404bde5",
+        "name": "Producto 49",
+        "stock": 19,
+        "price": 205.19,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/248",
+        "category": "nuevos"
+    },
+    {
+        "id": "49911aa8-6c5c-4e25-afe1-aeb46bc52094",
+        "name": "Producto 50",
+        "stock": 45,
+        "price": 855.79,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/249",
+        "category": "ofertas"
+    },
+    {
+        "id": "ed397bca-60a4-4aab-a7fe-d4ce57154001",
+        "name": "Producto 51",
+        "stock": 98,
+        "price": 651.73,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/250",
+        "category": "populares"
+    },
+    {
+        "id": "0a60c028-d260-4cea-9e3d-f20544d6d051",
+        "name": "Producto 52",
+        "stock": 63,
+        "price": 161.98,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/251",
+        "category": "destacados"
+    },
+    {
+        "id": "ba138668-67c3-4a0c-8731-67c208d150bd",
+        "name": "Producto 53",
+        "stock": 32,
+        "price": 950.71,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/252",
+        "category": "ofertas"
+    },
+    {
+        "id": "95632ff0-83cd-499a-862b-9ef04e1565c7",
+        "name": "Producto 54",
+        "stock": 57,
+        "price": 881.5,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/253",
+        "category": "destacados"
+    },
+    {
+        "id": "bcd76d18-822e-4194-9064-f4f5581d9e5d",
+        "name": "Producto 55",
+        "stock": 90,
+        "price": 333.3,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/254",
+        "category": "destacados"
+    },
+    {
+        "id": "0c1b4892-a6ed-47bd-8213-06eb7748c3b6",
+        "name": "Producto 56",
+        "stock": 6,
+        "price": 596.37,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/255",
+        "category": "nuevos"
+    },
+    {
+        "id": "92d33b77-b4a1-47d5-b67a-696024e1d00e",
+        "name": "Producto 57",
+        "stock": 93,
+        "price": 837.53,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/256",
+        "category": "populares"
+    },
+    {
+        "id": "93dedca6-42b6-405f-b7b4-9ceb027c25ec",
+        "name": "Producto 58",
+        "stock": 13,
+        "price": 457.94,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/257",
+        "category": "nuevos"
+    },
+    {
+        "id": "cc22e172-3ec7-49c9-9c69-d2c6e19c5ac2",
+        "name": "Producto 59",
+        "stock": 78,
+        "price": 382.76,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/258",
+        "category": "nuevos"
+    },
+    {
+        "id": "ed954519-b724-454d-80b8-4e064a78e158",
+        "name": "Producto 60",
+        "stock": 12,
+        "price": 83.1,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/259",
+        "category": "populares"
+    },
+    {
+        "id": "50d6509b-1c05-4619-8558-1af5b3ca74eb",
+        "name": "Producto 61",
+        "stock": 12,
+        "price": 411.49,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/260",
+        "category": "ofertas"
+    },
+    {
+        "id": "535db2a1-4092-4881-81fc-d545ec9cbeaa",
+        "name": "Producto 62",
+        "stock": 84,
+        "price": 489.03,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/261",
+        "category": "ofertas"
+    },
+    {
+        "id": "1a8eecd2-d01b-4f94-9228-dd70d4ab7c91",
+        "name": "Producto 63",
+        "stock": 100,
+        "price": 472.4,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/262",
+        "category": "ofertas"
+    },
+    {
+        "id": "72aeb066-a9bd-46e5-bf60-984e283458e5",
+        "name": "Producto 64",
+        "stock": 53,
+        "price": 92.96,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/263",
+        "category": "populares"
+    },
+    {
+        "id": "bc59eb95-3b8a-4792-a0e6-bb8dec55628b",
+        "name": "Producto 65",
+        "stock": 86,
+        "price": 432.68,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/264",
+        "category": "populares"
+    },
+    {
+        "id": "862f3cfd-2469-4088-a6c1-3eb06338910e",
+        "name": "Producto 66",
+        "stock": 15,
+        "price": 288.32,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/265",
+        "category": "populares"
+    },
+    {
+        "id": "203af584-0552-4ca0-8093-b84a260d7f0f",
+        "name": "Producto 67",
+        "stock": 98,
+        "price": 569.36,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/266",
+        "category": "nuevos"
+    },
+    {
+        "id": "bc4437f1-6e42-44f9-90e9-542cd6568c30",
+        "name": "Producto 68",
+        "stock": 12,
+        "price": 232.79,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/267",
+        "category": "ofertas"
+    },
+    {
+        "id": "d82be7f1-14a6-44f6-9bad-7ad0daadd6b5",
+        "name": "Producto 69",
+        "stock": 66,
+        "price": 221.4,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/268",
+        "category": "destacados"
+    },
+    {
+        "id": "6e154217-6777-40fa-9eed-21e096d09143",
+        "name": "Producto 70",
+        "stock": 46,
+        "price": 793.73,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/269",
+        "category": "populares"
+    },
+    {
+        "id": "10258276-0f66-4993-bf88-fc2b94257c02",
+        "name": "Producto 71",
+        "stock": 57,
+        "price": 558.72,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/270",
+        "category": "ofertas"
+    },
+    {
+        "id": "7e34bfb7-f795-4509-b115-87294929ae77",
+        "name": "Producto 72",
+        "stock": 94,
+        "price": 372.7,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/271",
+        "category": "ofertas"
+    },
+    {
+        "id": "984c3e3c-f51a-4a74-befe-0b278eddab28",
+        "name": "Producto 73",
+        "stock": 15,
+        "price": 844.47,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/272",
+        "category": "populares"
+    },
+    {
+        "id": "f908acc0-a5b0-47b0-afd6-8b39482983d5",
+        "name": "Producto 74",
+        "stock": 55,
+        "price": 178.22,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/273",
+        "category": "nuevos"
+    },
+    {
+        "id": "33a2a89d-858d-4a2a-acf2-27ea3a1c2e16",
+        "name": "Producto 75",
+        "stock": 44,
+        "price": 916.39,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/274",
+        "category": "nuevos"
+    },
+    {
+        "id": "5b1f2b9e-1949-4496-bff1-2529295c0f9d",
+        "name": "Producto 76",
+        "stock": 1,
+        "price": 813.94,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/275",
+        "category": "ofertas"
+    },
+    {
+        "id": "677da833-451e-44e5-be5a-2ad8536d2f09",
+        "name": "Producto 77",
+        "stock": 40,
+        "price": 645.41,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/276",
+        "category": "ofertas"
+    },
+    {
+        "id": "47117d8f-472c-411b-b7ef-d5a51efbdec9",
+        "name": "Producto 78",
+        "stock": 13,
+        "price": 675.42,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/277",
+        "category": "ofertas"
+    },
+    {
+        "id": "2a81b7e9-f9b9-4895-95dc-74c3fd68558e",
+        "name": "Producto 79",
+        "stock": 6,
+        "price": 441.65,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/278",
+        "category": "nuevos"
+    },
+    {
+        "id": "4315ffde-3104-41b5-bc8f-e4fb3e7f2a67",
+        "name": "Producto 80",
+        "stock": 13,
+        "price": 697.79,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/279",
+        "category": "populares"
+    },
+    {
+        "id": "c0484f5a-625e-49e5-9cce-ce9a99c27a2a",
+        "name": "Producto 81",
+        "stock": 86,
+        "price": 586.66,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/280",
+        "category": "ofertas"
+    },
+    {
+        "id": "9e71db43-11fb-42fc-b635-c8c6dc24e9f1",
+        "name": "Producto 82",
+        "stock": 9,
+        "price": 882.34,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/281",
+        "category": "populares"
+    },
+    {
+        "id": "62940ca0-e192-4f01-8df3-0a6662948fc3",
+        "name": "Producto 83",
+        "stock": 99,
+        "price": 612.68,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/282",
+        "category": "ofertas"
+    },
+    {
+        "id": "925e6f9e-f0a2-4f1f-915a-a4a870e2652f",
+        "name": "Producto 84",
+        "stock": 53,
+        "price": 589.87,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/283",
+        "category": "ofertas"
+    },
+    {
+        "id": "422ebdd3-7418-4052-b1d8-d594cd2dc8da",
+        "name": "Producto 85",
+        "stock": 94,
+        "price": 323.24,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/284",
+        "category": "destacados"
+    },
+    {
+        "id": "08c038b3-1539-40a5-93be-ffe2013d423e",
+        "name": "Producto 86",
+        "stock": 24,
+        "price": 338.91,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/285",
+        "category": "populares"
+    },
+    {
+        "id": "6345260e-22e9-4840-a7e6-8b2bc8b16921",
+        "name": "Producto 87",
+        "stock": 30,
+        "price": 898.48,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/286",
+        "category": "ofertas"
+    },
+    {
+        "id": "789982c5-fe80-41ae-8662-dc4d64259546",
+        "name": "Producto 88",
+        "stock": 14,
+        "price": 449.16,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/287",
+        "category": "populares"
+    },
+    {
+        "id": "5ef3264b-4f73-4e2f-b453-5dacce939801",
+        "name": "Producto 89",
+        "stock": 66,
+        "price": 427.15,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/288",
+        "category": "destacados"
+    },
+    {
+        "id": "bcb9d9df-5dee-48f2-86d4-49d64a24f851",
+        "name": "Producto 90",
+        "stock": 63,
+        "price": 676.68,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/289",
+        "category": "populares"
+    },
+    {
+        "id": "f5b137a6-8ca6-4c1f-811e-ddb7c6a14305",
+        "name": "Producto 91",
+        "stock": 98,
+        "price": 642.37,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/290",
+        "category": "ofertas"
+    },
+    {
+        "id": "c9c6d4fd-d072-4b84-9e5c-a8833815e403",
+        "name": "Producto 92",
+        "stock": 53,
+        "price": 119.49,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/291",
+        "category": "ofertas"
+    },
+    {
+        "id": "0e303238-d28d-40b7-b20d-f23ccd6f67e2",
+        "name": "Producto 93",
+        "stock": 65,
+        "price": 912.21,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/292",
+        "category": "ofertas"
+    },
+    {
+        "id": "3b71292c-1c5b-4fc1-889b-f3732553501a",
+        "name": "Producto 94",
+        "stock": 55,
+        "price": 89.88,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/293",
+        "category": "ofertas"
+    },
+    {
+        "id": "a8f685cc-3460-4cba-942c-bc69efd42fc1",
+        "name": "Producto 95",
+        "stock": 93,
+        "price": 870.26,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/294",
+        "category": "populares"
+    },
+    {
+        "id": "4a6b662e-7ad7-4ec8-af27-aa5839633c60",
+        "name": "Producto 96",
+        "stock": 36,
+        "price": 898.51,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/295",
+        "category": "nuevos"
+    },
+    {
+        "id": "50057fb0-bcb1-47c2-aa9d-0f75b60ab2e8",
+        "name": "Producto 97",
+        "stock": 60,
+        "price": 775.05,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/296",
+        "category": "nuevos"
+    },
+    {
+        "id": "86406dc4-4e29-47fd-9331-d05bd2c04175",
+        "name": "Producto 98",
+        "stock": 89,
+        "price": 723.69,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/297",
+        "category": "destacados"
+    },
+    {
+        "id": "cca9f013-6012-494b-91d7-277b274c726c",
+        "name": "Producto 99",
+        "stock": 71,
+        "price": 192.01,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/298",
+        "category": "populares"
+    },
+    {
+        "id": "be890b11-eb22-4e71-9162-3ad59f848390",
+        "name": "Producto 100",
+        "stock": 83,
+        "price": 666.04,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "img": "https://picsum.photos/299",
+        "category": "ofertas"
+    }
+]
