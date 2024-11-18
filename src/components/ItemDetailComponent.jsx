@@ -1,5 +1,5 @@
 import React from "react";
-import ItemCountComponent from './../components/ItemCountComponent'
+import ItemCountComponent from './ItemCountComponent'
 
 const ItemDetail = ({product}) => {
     const onAdd = (cantidad) => {

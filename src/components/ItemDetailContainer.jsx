@@ -1,7 +1,7 @@
 import React from "react";
 import { useState, useEffect } from  "react"
 import { getOneProduct } from "../../mocks/data";
-import ItemDetail from "./ItemDetail";
+import ItemDetailComponent from "./ItemDetailComponent";
 
 const ItemDetailContainer = () => {
     const [product, setProduct] = useState({})
@@ -16,7 +16,7 @@ const ItemDetailContainer = () => {
     
     return (
         <div>
-            <ItemDetail product={product}/>
+            <ItemDetailComponent product={product}/>
         </div>
     )
 }
