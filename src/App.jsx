@@ -4,7 +4,6 @@ import NavbarComponent from './components/NavbarComponent'
 import ItemListComponent from './components/ItemListComponent'
 
 function App() {
-
   return (
     <>
       <NavbarComponent params={{ brand: "FastSells" }} />
