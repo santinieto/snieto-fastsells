@@ -9,14 +9,23 @@ const useFetch = (url) => {
         // Levanto la bandera de loading
         setLoading(true)
         
+        // Debug
+        //console.log("Fetching URL: " + url)
+        
         // Hago el fetch
-        fetch({url})
-        .then((res) => res.json()) // Traduzco y obtengo la promesa
+        fetch(url)
         .then((res) => {
+            return res.json()
+        }) // Traduzco y obtengo la promesa
+        .then((res) => {
+            //console.log(res.results)
             setError(false)
-            setData(res)
+            setData(res.results)
         }) // Actualizo los resutlados
-        .catch((error) => setError(error)) // Si algo salio mal, levanto la bandera de error
+        .catch((error) => {
+            //console.log(error)
+            setError(error) // Si algo salio mal, levanto la bandera de error
+        })
         .finally(() => {
             // Bajo la bandera de loading
             setLoading(false)
@@ -27,3 +36,12 @@ const useFetch = (url) => {
 }
 
 export default useFetch
+
+/* (Ejemplo de uso)
+
+import useFetch from './../../hooks/useFetch'
+
+const { data } = useFetch("https://rickandmortyapi.com/api/character")
+console.log(data)
+
+*/
