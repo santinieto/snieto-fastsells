@@ -25,3 +25,4 @@ dist-ssr
 
 # Mis ignores
 src/Ejemplo*
+src/hocs
