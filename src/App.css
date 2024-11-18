@@ -161,3 +161,9 @@
   border-radius: 50%;
   color: white;
 }
+
+.notFoundImage {
+  width: 700px;
+  margin: 20px auto;
+  border-radius: 20px;
+}
