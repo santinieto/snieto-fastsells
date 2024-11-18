@@ -7,16 +7,15 @@ const ItemDetail = ({product}) => {
     }
 
     return (
-        <div key={product.id} className="itemCard">
-            <img src={product.image} className="itemImage" alt="Product Image" />
-                <div className="itemCardBody">
-                    <div>
-                        <h5 className="itemTitle">{product.name}</h5>
-                        <h4>${product.price}</h4>
-                    </div>
-                    <p className="itemDescription">{product.description}</p>
-                    <ItemCountComponent stock={product.stock} onAdd={onAdd} />
-                </div>
+        <div key={product.id} className="card mb-3 itemDetailCard">
+            <img src={product.image} className="card-img-top itemDetailImage" alt="Imagen del producto" />
+            <div className="card-body itemDetailBody">
+                <h2 className="card-title">{product.name}</h2>
+                <p className="card-text itemDetailPrice">${product.price}</p>
+                <p className="card-text">{product.description}</p>
+                <p className="card-text"><small className="text-muted">In stock: {product.stock}</small></p>
+                <ItemCountComponent stock={product.stock} onAdd={onAdd} />
+            </div>
         </div>
     )
 }

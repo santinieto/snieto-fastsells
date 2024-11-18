@@ -10,11 +10,12 @@ function App() {
   return (
     <>
       <NavbarComponent params={{ brand: "FastSells" }} />
-      {/* <ItemDetailContainer /> */}
       
       <ComponenteConChildren text="Obtener productos (Metodo Children)">
         <ItemListComponent params={{ greetings: "Bienvenidos al E-commerce" }} />
       </ComponenteConChildren>
+      
+      <ItemDetailContainer />
     </>
   )
 }

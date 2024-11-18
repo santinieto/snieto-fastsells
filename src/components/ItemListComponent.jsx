@@ -1,5 +1,4 @@
 import useFetchMock from './../../mocks/useFetchMock';
-import ItemCountComponent from './../components/ItemCountComponent'
 
 const ItemListComponent = ({params}) => {
     const { products, loading, error } = useFetchMock();
@@ -26,7 +25,7 @@ const ItemListComponent = ({params}) => {
                                     <h4>${product.price}</h4>
                                 </div>
                                 <p className="itemDescription">{product.description}</p>
-                                <ItemCountComponent stock={product.stock} onAdd={onAdd} />
+                                <button type="button" class="btn btn-info">Más información</button>
                             </div>
                     </div>
                 ))}

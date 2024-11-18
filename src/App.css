@@ -1,3 +1,7 @@
+#root {
+  padding-bottom: 20px;
+}
+
 .navbar-nav {
   display: flex;
   column-gap: 10px;
@@ -113,4 +117,32 @@
 
 .itemAmountAdd a {
   width: 100%;
+}
+
+.itemDetailCard {
+  width: 500px;
+  margin: 20px auto;
+  overflow: hidden;
+  border: none !important;
+  border-radius: 20px !important;
+}
+
+.itemDetailBody {
+  background-color: rgb(137, 167, 87);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  row-gap: 10px;
+  position: relative;
+}
+
+.itemDetailPrice {
+  display: flex;
+  background-color: rgb(60, 60, 212);
+  position: absolute;
+  top: 30px;
+  right: 50px;
+  padding: 15px;
+  border-radius: 50%;
+  color: white;
 }
