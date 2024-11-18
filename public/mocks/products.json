@@ -1,902 +1,902 @@
 [
     {
-        "id": "899f57df-8662-46f5-9b20-173980234b7d",
+        "id": "9c572ccd-6dba-4d20-9cb2-63db75c00a9a",
         "name": "Producto 1",
-        "stock": 46,
-        "price": 468.05,
+        "stock": 90,
+        "price": 812.23,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/200",
-        "category": "populares"
+        "category": "sports"
     },
     {
-        "id": "fbe5ca4a-1187-439b-8725-fd7e03867197",
+        "id": "3267344e-713a-4d03-a8b2-85ac8d82615e",
         "name": "Producto 2",
-        "stock": 100,
-        "price": 878.42,
+        "stock": 74,
+        "price": 872.33,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/201",
-        "category": "ofertas"
+        "category": "books"
     },
     {
-        "id": "ce3437e0-2261-41af-9aa9-cc67c6ad2bec",
+        "id": "bd119069-5632-49a1-bd20-bc216ebb276d",
         "name": "Producto 3",
-        "stock": 92,
-        "price": 297.65,
+        "stock": 74,
+        "price": 430.43,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/202",
-        "category": "destacados"
+        "category": "books"
     },
     {
-        "id": "5a44f131-2f31-4c04-b32f-dce1a4a73b3a",
+        "id": "e1d9ef67-12ca-4f5e-8b2f-e301ae6f7a16",
         "name": "Producto 4",
-        "stock": 58,
-        "price": 510.49,
+        "stock": 87,
+        "price": 590.27,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/203",
-        "category": "populares"
+        "category": "clothes"
     },
     {
-        "id": "e5e79c99-7798-4dfe-a6cb-d58ef195d0bc",
+        "id": "5467b09c-c1c2-4f22-975e-6d3d3adce159",
         "name": "Producto 5",
-        "stock": 1,
-        "price": 121.87,
+        "stock": 34,
+        "price": 679.14,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/204",
-        "category": "destacados"
+        "category": "others"
     },
     {
-        "id": "b970468a-3d49-4e22-a6a1-8542cc43e9ec",
+        "id": "123f14f0-e18a-4e4e-8563-3740f4a52f43",
         "name": "Producto 6",
-        "stock": 25,
-        "price": 587.27,
+        "stock": 90,
+        "price": 124.76,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/205",
-        "category": "nuevos"
+        "category": "clothes"
     },
     {
-        "id": "252bd8a3-1139-4fe4-b31e-482004732b80",
+        "id": "89087dcf-1438-4473-8fac-54ec3043ce1f",
         "name": "Producto 7",
-        "stock": 27,
-        "price": 198.51,
+        "stock": 93,
+        "price": 335.02,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/206",
-        "category": "populares"
+        "category": "sports"
     },
     {
-        "id": "fbca09e8-b80c-40d2-89f5-1008b730181b",
+        "id": "20a23800-da44-48f4-908b-67e63c1c87cc",
         "name": "Producto 8",
-        "stock": 55,
-        "price": 898.6,
+        "stock": 7,
+        "price": 427.33,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/207",
-        "category": "ofertas"
+        "category": "sports"
     },
     {
-        "id": "93ddfeef-a841-4c6d-af4d-7bc3eb0fd408",
+        "id": "8c3e4338-9b29-4625-9052-be566f49689e",
         "name": "Producto 9",
-        "stock": 21,
-        "price": 715.29,
+        "stock": 47,
+        "price": 215.63,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/208",
-        "category": "nuevos"
+        "category": "others"
     },
     {
-        "id": "2e6d2661-16d0-45b9-98ac-bd3d583bce40",
+        "id": "e233125a-713b-42c8-a549-91355f378e77",
         "name": "Producto 10",
-        "stock": 33,
-        "price": 106.89,
+        "stock": 42,
+        "price": 264.42,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/209",
-        "category": "populares"
+        "category": "clothes"
     },
     {
-        "id": "bfdafd8f-9254-48ba-a7e1-453cd32ab6b4",
+        "id": "ea6db45a-e855-4c8e-b63c-c6192830a516",
         "name": "Producto 11",
-        "stock": 36,
-        "price": 272.66,
+        "stock": 44,
+        "price": 546.65,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/210",
-        "category": "nuevos"
+        "category": "others"
     },
     {
-        "id": "66f0f579-dc73-40b1-8c5b-2e5546ce19d1",
+        "id": "1e1185f4-d029-4788-aa8a-fa57149f4918",
         "name": "Producto 12",
-        "stock": 79,
-        "price": 790.03,
+        "stock": 98,
+        "price": 496.17,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/211",
-        "category": "populares"
+        "category": "clothes"
     },
     {
-        "id": "7363de8c-cebb-49c9-9ec5-279f60857c8f",
+        "id": "f07dcc75-019a-485a-b013-00dc53e22621",
         "name": "Producto 13",
-        "stock": 70,
-        "price": 638.6,
+        "stock": 81,
+        "price": 681.46,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/212",
-        "category": "populares"
+        "category": "sports"
     },
     {
-        "id": "f7e061c7-6f70-400a-9f91-c726c1b95f81",
+        "id": "c7e3c507-e0e1-488a-88fa-2f1e432dbdff",
         "name": "Producto 14",
-        "stock": 9,
-        "price": 827.1,
+        "stock": 38,
+        "price": 430.57,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/213",
-        "category": "nuevos"
+        "category": "others"
     },
     {
-        "id": "a5c6129c-c8aa-4af5-b8ae-55160139fb65",
+        "id": "82ed6b52-14e7-40bd-bdb3-eaf9e68ac801",
         "name": "Producto 15",
-        "stock": 63,
-        "price": 216.24,
+        "stock": 66,
+        "price": 529.74,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/214",
-        "category": "populares"
+        "category": "books"
     },
     {
-        "id": "abdbb970-fa9e-49e2-9593-c30665b426bf",
+        "id": "5e005da5-a299-45fc-a6bc-8dfaab61969c",
         "name": "Producto 16",
-        "stock": 16,
-        "price": 339.71,
+        "stock": 10,
+        "price": 320.55,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/215",
-        "category": "populares"
+        "category": "books"
     },
     {
-        "id": "4156ff49-8218-4bb9-8f4c-25f3e50bee7d",
+        "id": "b4597493-98fe-420c-9b0f-50c0425b72a9",
         "name": "Producto 17",
-        "stock": 57,
-        "price": 374.69,
+        "stock": 24,
+        "price": 18.21,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/216",
-        "category": "ofertas"
+        "category": "sports"
     },
     {
-        "id": "0110e510-43ef-44ab-973c-f68cf1398f5b",
+        "id": "796c3405-863e-4ff0-8312-071551a2afe3",
         "name": "Producto 18",
-        "stock": 2,
-        "price": 817.73,
+        "stock": 60,
+        "price": 249.59,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/217",
-        "category": "nuevos"
+        "category": "sports"
     },
     {
-        "id": "46309d56-6719-45e1-b3d2-928705fbcb3d",
+        "id": "86ec5151-df97-4804-a38e-a837fd677436",
         "name": "Producto 19",
-        "stock": 73,
-        "price": 394.98,
+        "stock": 2,
+        "price": 456.02,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/218",
-        "category": "populares"
+        "category": "clothes"
     },
     {
-        "id": "bff2b624-8eb9-4623-b94f-48c578d94caa",
+        "id": "d6395852-3f33-4822-9acb-093e670f67d2",
         "name": "Producto 20",
-        "stock": 37,
-        "price": 180.21,
+        "stock": 55,
+        "price": 314.75,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/219",
-        "category": "ofertas"
+        "category": "clothes"
     },
     {
-        "id": "a0315265-2ae6-4459-96b3-a1ff02ca0c77",
+        "id": "a8af5294-bf88-4566-bd24-a751803bf21a",
         "name": "Producto 21",
-        "stock": 90,
-        "price": 457.48,
+        "stock": 97,
+        "price": 788.33,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/220",
-        "category": "nuevos"
+        "category": "sports"
     },
     {
-        "id": "32f6fa9f-9692-4b77-a647-938c88da88d7",
+        "id": "63220074-143e-4cfb-887e-ec23d16f6e10",
         "name": "Producto 22",
-        "stock": 100,
-        "price": 613.78,
+        "stock": 90,
+        "price": 174.08,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/221",
-        "category": "nuevos"
+        "category": "clothes"
     },
     {
-        "id": "12178cd4-699f-4330-a348-9875580b9763",
+        "id": "4257c7b5-795b-4f99-b648-641deafcd536",
         "name": "Producto 23",
-        "stock": 80,
-        "price": 557.22,
+        "stock": 92,
+        "price": 455.22,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/222",
-        "category": "populares"
+        "category": "clothes"
     },
     {
-        "id": "164e281e-d22b-445a-acaf-054a28e5fa7d",
+        "id": "7592a333-e1f0-4606-bf1d-2947fc1ad541",
         "name": "Producto 24",
-        "stock": 64,
-        "price": 896.99,
+        "stock": 47,
+        "price": 52.13,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/223",
-        "category": "populares"
+        "category": "books"
     },
     {
-        "id": "7540af5a-2211-48d8-830c-a70e84d8a575",
+        "id": "af9496c3-8743-4c29-9444-d92795fa583d",
         "name": "Producto 25",
-        "stock": 16,
-        "price": 668.87,
+        "stock": 72,
+        "price": 924.15,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/224",
-        "category": "populares"
+        "category": "others"
     },
     {
-        "id": "3233fe80-f5c3-4237-9136-14fa02bc65c0",
+        "id": "dc1d6801-0171-4f94-b482-f0ce91f6ebaa",
         "name": "Producto 26",
-        "stock": 23,
-        "price": 576.49,
+        "stock": 89,
+        "price": 990.87,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/225",
-        "category": "destacados"
+        "category": "books"
     },
     {
-        "id": "ecb2f1c3-b5f1-495a-8f1b-a3b20ad83fd1",
+        "id": "c0962a77-839b-4051-8bb9-5b180f090f8f",
         "name": "Producto 27",
-        "stock": 17,
-        "price": 164.67,
+        "stock": 88,
+        "price": 840.94,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/226",
-        "category": "ofertas"
+        "category": "others"
     },
     {
-        "id": "0c2bf216-54ef-4fbe-9114-a6ec784e6db2",
+        "id": "01b7a485-0dd2-419d-adb4-d168124ffa02",
         "name": "Producto 28",
-        "stock": 96,
-        "price": 995.57,
+        "stock": 59,
+        "price": 539.49,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/227",
-        "category": "populares"
+        "category": "books"
     },
     {
-        "id": "3251a438-2d8b-46fc-b4e1-7e714e5e4372",
+        "id": "ad070aba-f642-4ea5-9f67-9e783e790b1a",
         "name": "Producto 29",
-        "stock": 98,
-        "price": 25.98,
+        "stock": 28,
+        "price": 502.47,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/228",
-        "category": "destacados"
+        "category": "others"
     },
     {
-        "id": "13f1a9ad-c199-44e0-b5b4-bc8f7c3229d2",
+        "id": "d8506fed-b4ea-48ab-82d9-84047d394839",
         "name": "Producto 30",
-        "stock": 49,
-        "price": 450.69,
+        "stock": 28,
+        "price": 167.84,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/229",
-        "category": "ofertas"
+        "category": "others"
     },
     {
-        "id": "0dfc4b76-395f-4893-8e4f-04de3972eae9",
+        "id": "e5d2d4d8-2442-4159-863c-e1d1029aec39",
         "name": "Producto 31",
-        "stock": 96,
-        "price": 113.55,
+        "stock": 82,
+        "price": 669.74,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/230",
-        "category": "nuevos"
+        "category": "clothes"
     },
     {
-        "id": "d8cd46e5-349d-4caf-b2df-79d790155d2d",
+        "id": "a11f1f30-f893-4c40-8d8f-dfa4617bae66",
         "name": "Producto 32",
-        "stock": 90,
-        "price": 519.06,
+        "stock": 85,
+        "price": 56.86,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/231",
-        "category": "nuevos"
+        "category": "others"
     },
     {
-        "id": "649b725e-6760-455e-b9f6-9e502602ca4e",
+        "id": "dd36a55d-0a9d-4bf6-b9d1-141c510f7118",
         "name": "Producto 33",
-        "stock": 56,
-        "price": 249.86,
+        "stock": 49,
+        "price": 955.09,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/232",
-        "category": "nuevos"
+        "category": "clothes"
     },
     {
-        "id": "6e298560-78a0-4c50-ba27-3a4a424e5a75",
+        "id": "2e265f21-a8bd-4e2b-9db9-9ec630b6b741",
         "name": "Producto 34",
-        "stock": 42,
-        "price": 880.13,
+        "stock": 89,
+        "price": 26.85,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/233",
-        "category": "destacados"
+        "category": "books"
     },
     {
-        "id": "8e4dae84-f838-41eb-ad62-43b9f5a75464",
+        "id": "deb8716f-c890-4949-99a3-d34eb1d1f257",
         "name": "Producto 35",
-        "stock": 31,
-        "price": 527.71,
+        "stock": 11,
+        "price": 866.63,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/234",
-        "category": "destacados"
+        "category": "others"
     },
     {
-        "id": "7ca23d53-8cf5-4eb5-9a8c-d1372398ee9f",
+        "id": "825a47d8-a0c1-4c53-a490-ee073709530a",
         "name": "Producto 36",
-        "stock": 11,
-        "price": 930.39,
+        "stock": 80,
+        "price": 94.95,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/235",
-        "category": "destacados"
+        "category": "books"
     },
     {
-        "id": "a702de8b-ad41-4ef5-a696-5b01fb393f65",
+        "id": "23e6b8ca-3268-4fcd-9b43-3a546f167bfc",
         "name": "Producto 37",
-        "stock": 23,
-        "price": 448.37,
+        "stock": 88,
+        "price": 482.0,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/236",
-        "category": "destacados"
+        "category": "clothes"
     },
     {
-        "id": "1b6e827c-01fb-4c9f-84c4-1043b23c440f",
+        "id": "3c09e7c1-f1bd-4895-8309-14668e891884",
         "name": "Producto 38",
-        "stock": 24,
-        "price": 94.04,
+        "stock": 13,
+        "price": 671.18,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/237",
-        "category": "ofertas"
+        "category": "others"
     },
     {
-        "id": "bcade08c-a163-49a2-a165-d1abb2aa4c23",
+        "id": "0210d3c3-b13d-49e2-b0e4-607b2a9ddbca",
         "name": "Producto 39",
-        "stock": 100,
-        "price": 819.03,
+        "stock": 47,
+        "price": 105.02,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/238",
-        "category": "populares"
+        "category": "clothes"
     },
     {
-        "id": "60293d0d-a9e3-4cbc-a00e-9a945be64a19",
+        "id": "d927f818-808a-4752-8f64-7f79244d8104",
         "name": "Producto 40",
-        "stock": 36,
-        "price": 642.43,
+        "stock": 15,
+        "price": 197.25,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/239",
-        "category": "ofertas"
+        "category": "sports"
     },
     {
-        "id": "b5d47375-cf65-493b-a440-88f1a284b323",
+        "id": "8f7a9d06-14c3-4347-b547-fa2a792652e9",
         "name": "Producto 41",
-        "stock": 9,
-        "price": 89.73,
+        "stock": 87,
+        "price": 982.14,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/240",
-        "category": "destacados"
+        "category": "books"
     },
     {
-        "id": "88528c55-3651-4f63-97b5-534ff26e2449",
+        "id": "aed1f11c-39a4-4fd3-83b4-c0d3af7bb3e4",
         "name": "Producto 42",
-        "stock": 44,
-        "price": 118.89,
+        "stock": 91,
+        "price": 184.3,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/241",
-        "category": "ofertas"
+        "category": "books"
     },
     {
-        "id": "8da46c97-c09b-4126-b909-b6e8e317ab48",
+        "id": "9df44822-b0d1-48a5-8580-c76bb43a90af",
         "name": "Producto 43",
-        "stock": 60,
-        "price": 213.11,
+        "stock": 91,
+        "price": 636.14,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/242",
-        "category": "nuevos"
+        "category": "clothes"
     },
     {
-        "id": "44cfc6d5-f51a-4b9a-b565-c61ce3ceca4a",
+        "id": "4d39c51f-47aa-4306-9edc-c3da4019b112",
         "name": "Producto 44",
-        "stock": 23,
-        "price": 106.07,
+        "stock": 35,
+        "price": 590.11,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/243",
-        "category": "destacados"
+        "category": "sports"
     },
     {
-        "id": "dca818ab-a59b-4209-88fa-b1f9724eac9a",
+        "id": "9e92e6a1-2d90-44e7-956b-da88bbca8fd7",
         "name": "Producto 45",
-        "stock": 23,
-        "price": 330.94,
+        "stock": 63,
+        "price": 443.75,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/244",
-        "category": "ofertas"
+        "category": "books"
     },
     {
-        "id": "cc2c7d3e-2329-482e-b8f6-2afe1b227b1a",
+        "id": "bebe7d24-c020-43da-aed3-c84f06bbf409",
         "name": "Producto 46",
-        "stock": 20,
-        "price": 829.96,
+        "stock": 47,
+        "price": 852.14,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/245",
-        "category": "destacados"
+        "category": "books"
     },
     {
-        "id": "0d8e1eb6-9a68-428f-ba6d-08bae0664643",
+        "id": "2db576db-f644-4841-a4d4-57c286060fbb",
         "name": "Producto 47",
-        "stock": 88,
-        "price": 385.71,
+        "stock": 8,
+        "price": 382.26,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/246",
-        "category": "destacados"
+        "category": "books"
     },
     {
-        "id": "20c82b2a-1fdc-4fc6-aa47-4583906c90e1",
+        "id": "8fcadbdd-a86a-4d85-b172-c79587b2dfd4",
         "name": "Producto 48",
-        "stock": 63,
-        "price": 595.95,
+        "stock": 90,
+        "price": 845.38,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/247",
-        "category": "destacados"
+        "category": "books"
     },
     {
-        "id": "50f466db-69ac-4a17-9c3a-f210e404bde5",
+        "id": "27ea8fa2-ffe1-4ebc-872d-7760152b377e",
         "name": "Producto 49",
-        "stock": 19,
-        "price": 205.19,
+        "stock": 35,
+        "price": 594.64,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/248",
-        "category": "nuevos"
+        "category": "books"
     },
     {
-        "id": "49911aa8-6c5c-4e25-afe1-aeb46bc52094",
+        "id": "b990ece3-0377-477f-8547-a7b26ebf0def",
         "name": "Producto 50",
-        "stock": 45,
-        "price": 855.79,
+        "stock": 20,
+        "price": 364.47,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/249",
-        "category": "ofertas"
+        "category": "books"
     },
     {
-        "id": "ed397bca-60a4-4aab-a7fe-d4ce57154001",
+        "id": "84ebb997-0438-4e42-aec8-6e158b57eb59",
         "name": "Producto 51",
-        "stock": 98,
-        "price": 651.73,
+        "stock": 4,
+        "price": 642.89,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/250",
-        "category": "populares"
+        "category": "sports"
     },
     {
-        "id": "0a60c028-d260-4cea-9e3d-f20544d6d051",
+        "id": "7dce95af-4f7b-4137-8bbd-9f892cc5df81",
         "name": "Producto 52",
-        "stock": 63,
-        "price": 161.98,
+        "stock": 86,
+        "price": 925.68,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/251",
-        "category": "destacados"
+        "category": "clothes"
     },
     {
-        "id": "ba138668-67c3-4a0c-8731-67c208d150bd",
+        "id": "24a5a4f9-cfdd-45fa-b296-c8ad78d7146f",
         "name": "Producto 53",
-        "stock": 32,
-        "price": 950.71,
+        "stock": 42,
+        "price": 412.22,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/252",
-        "category": "ofertas"
+        "category": "books"
     },
     {
-        "id": "95632ff0-83cd-499a-862b-9ef04e1565c7",
+        "id": "3fcd5fe1-9f59-46bb-afd5-4049be9a71b5",
         "name": "Producto 54",
-        "stock": 57,
-        "price": 881.5,
+        "stock": 79,
+        "price": 804.99,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/253",
-        "category": "destacados"
+        "category": "others"
     },
     {
-        "id": "bcd76d18-822e-4194-9064-f4f5581d9e5d",
+        "id": "32d27c99-d4c0-41b2-a364-f07c65763476",
         "name": "Producto 55",
-        "stock": 90,
-        "price": 333.3,
+        "stock": 15,
+        "price": 255.67,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/254",
-        "category": "destacados"
+        "category": "sports"
     },
     {
-        "id": "0c1b4892-a6ed-47bd-8213-06eb7748c3b6",
+        "id": "3ac23c12-d387-45b7-a1b9-b83f0354957e",
         "name": "Producto 56",
-        "stock": 6,
-        "price": 596.37,
+        "stock": 1,
+        "price": 135.55,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/255",
-        "category": "nuevos"
+        "category": "sports"
     },
     {
-        "id": "92d33b77-b4a1-47d5-b67a-696024e1d00e",
+        "id": "96ae88cf-23c7-4fb4-b5b2-941530351c02",
         "name": "Producto 57",
-        "stock": 93,
-        "price": 837.53,
+        "stock": 51,
+        "price": 425.55,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/256",
-        "category": "populares"
+        "category": "clothes"
     },
     {
-        "id": "93dedca6-42b6-405f-b7b4-9ceb027c25ec",
+        "id": "c3269f33-4da4-4ef6-9dd8-a46f859f01f3",
         "name": "Producto 58",
-        "stock": 13,
-        "price": 457.94,
+        "stock": 89,
+        "price": 565.35,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/257",
-        "category": "nuevos"
+        "category": "clothes"
     },
     {
-        "id": "cc22e172-3ec7-49c9-9c69-d2c6e19c5ac2",
+        "id": "d7c9e3f0-372d-4243-a3fe-e9190b404981",
         "name": "Producto 59",
-        "stock": 78,
-        "price": 382.76,
+        "stock": 56,
+        "price": 360.18,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/258",
-        "category": "nuevos"
+        "category": "books"
     },
     {
-        "id": "ed954519-b724-454d-80b8-4e064a78e158",
+        "id": "8856b3ae-bba0-445e-9705-25f7fe751a99",
         "name": "Producto 60",
-        "stock": 12,
-        "price": 83.1,
+        "stock": 2,
+        "price": 342.06,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/259",
-        "category": "populares"
+        "category": "clothes"
     },
     {
-        "id": "50d6509b-1c05-4619-8558-1af5b3ca74eb",
+        "id": "a73249b9-37eb-434a-9194-762e06fae746",
         "name": "Producto 61",
-        "stock": 12,
-        "price": 411.49,
+        "stock": 2,
+        "price": 377.71,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/260",
-        "category": "ofertas"
+        "category": "others"
     },
     {
-        "id": "535db2a1-4092-4881-81fc-d545ec9cbeaa",
+        "id": "da457909-c220-49bf-bc6c-443f9849a15b",
         "name": "Producto 62",
-        "stock": 84,
-        "price": 489.03,
+        "stock": 62,
+        "price": 210.88,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/261",
-        "category": "ofertas"
+        "category": "others"
     },
     {
-        "id": "1a8eecd2-d01b-4f94-9228-dd70d4ab7c91",
+        "id": "88e12112-9c34-4d9c-8994-33177ea399cb",
         "name": "Producto 63",
-        "stock": 100,
-        "price": 472.4,
+        "stock": 93,
+        "price": 937.37,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/262",
-        "category": "ofertas"
+        "category": "others"
     },
     {
-        "id": "72aeb066-a9bd-46e5-bf60-984e283458e5",
+        "id": "6b0e9893-93c0-453c-b6ee-405a80a70ca5",
         "name": "Producto 64",
-        "stock": 53,
-        "price": 92.96,
+        "stock": 2,
+        "price": 727.04,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/263",
-        "category": "populares"
+        "category": "clothes"
     },
     {
-        "id": "bc59eb95-3b8a-4792-a0e6-bb8dec55628b",
+        "id": "c5b0ea1e-bb4a-48d0-be6d-6451180da66d",
         "name": "Producto 65",
-        "stock": 86,
-        "price": 432.68,
+        "stock": 5,
+        "price": 366.44,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/264",
-        "category": "populares"
+        "category": "sports"
     },
     {
-        "id": "862f3cfd-2469-4088-a6c1-3eb06338910e",
+        "id": "5a484a89-8d64-40e6-ac51-bda3dcaaf981",
         "name": "Producto 66",
-        "stock": 15,
-        "price": 288.32,
+        "stock": 20,
+        "price": 315.29,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/265",
-        "category": "populares"
+        "category": "books"
     },
     {
-        "id": "203af584-0552-4ca0-8093-b84a260d7f0f",
+        "id": "3cccc356-e6f7-41d9-9c9b-35919a15d531",
         "name": "Producto 67",
-        "stock": 98,
-        "price": 569.36,
+        "stock": 44,
+        "price": 645.48,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/266",
-        "category": "nuevos"
+        "category": "books"
     },
     {
-        "id": "bc4437f1-6e42-44f9-90e9-542cd6568c30",
+        "id": "0dd6e2c6-8100-4cd3-b93e-5450412c3a16",
         "name": "Producto 68",
-        "stock": 12,
-        "price": 232.79,
+        "stock": 80,
+        "price": 495.06,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/267",
-        "category": "ofertas"
+        "category": "others"
     },
     {
-        "id": "d82be7f1-14a6-44f6-9bad-7ad0daadd6b5",
+        "id": "7aac8d0f-6fac-4222-bbb4-8b10f664b8b7",
         "name": "Producto 69",
-        "stock": 66,
-        "price": 221.4,
+        "stock": 29,
+        "price": 231.49,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/268",
-        "category": "destacados"
+        "category": "others"
     },
     {
-        "id": "6e154217-6777-40fa-9eed-21e096d09143",
+        "id": "1f5d8101-abeb-4cf8-9c68-c433dcb83359",
         "name": "Producto 70",
-        "stock": 46,
-        "price": 793.73,
+        "stock": 55,
+        "price": 527.45,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/269",
-        "category": "populares"
+        "category": "clothes"
     },
     {
-        "id": "10258276-0f66-4993-bf88-fc2b94257c02",
+        "id": "fe1226c9-878c-4cf8-94a6-af9eda9961c4",
         "name": "Producto 71",
-        "stock": 57,
-        "price": 558.72,
+        "stock": 26,
+        "price": 480.52,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/270",
-        "category": "ofertas"
+        "category": "sports"
     },
     {
-        "id": "7e34bfb7-f795-4509-b115-87294929ae77",
+        "id": "731dbf38-baa6-4012-8b30-e79cbd96b1ff",
         "name": "Producto 72",
-        "stock": 94,
-        "price": 372.7,
+        "stock": 20,
+        "price": 354.45,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/271",
-        "category": "ofertas"
+        "category": "sports"
     },
     {
-        "id": "984c3e3c-f51a-4a74-befe-0b278eddab28",
+        "id": "40605a13-52a9-4a0d-9a83-34008ada20ca",
         "name": "Producto 73",
-        "stock": 15,
-        "price": 844.47,
+        "stock": 54,
+        "price": 31.67,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/272",
-        "category": "populares"
+        "category": "others"
     },
     {
-        "id": "f908acc0-a5b0-47b0-afd6-8b39482983d5",
+        "id": "57e0f342-52fa-462e-93b8-2826f62a5c06",
         "name": "Producto 74",
-        "stock": 55,
-        "price": 178.22,
+        "stock": 95,
+        "price": 722.48,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/273",
-        "category": "nuevos"
+        "category": "others"
     },
     {
-        "id": "33a2a89d-858d-4a2a-acf2-27ea3a1c2e16",
+        "id": "7c7f1e70-7d28-478c-aca3-77bf80b55a40",
         "name": "Producto 75",
-        "stock": 44,
-        "price": 916.39,
+        "stock": 58,
+        "price": 819.7,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/274",
-        "category": "nuevos"
+        "category": "books"
     },
     {
-        "id": "5b1f2b9e-1949-4496-bff1-2529295c0f9d",
+        "id": "fe15e309-3c20-490d-9821-04f3174851ef",
         "name": "Producto 76",
-        "stock": 1,
-        "price": 813.94,
+        "stock": 29,
+        "price": 483.13,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/275",
-        "category": "ofertas"
+        "category": "others"
     },
     {
-        "id": "677da833-451e-44e5-be5a-2ad8536d2f09",
+        "id": "101382c0-d816-48c1-a1d4-28baf1ffe863",
         "name": "Producto 77",
-        "stock": 40,
-        "price": 645.41,
+        "stock": 50,
+        "price": 524.17,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/276",
-        "category": "ofertas"
+        "category": "clothes"
     },
     {
-        "id": "47117d8f-472c-411b-b7ef-d5a51efbdec9",
+        "id": "fd62a030-20b0-4e42-b4ef-12f14d8c33fb",
         "name": "Producto 78",
-        "stock": 13,
-        "price": 675.42,
+        "stock": 21,
+        "price": 935.76,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/277",
-        "category": "ofertas"
+        "category": "others"
     },
     {
-        "id": "2a81b7e9-f9b9-4895-95dc-74c3fd68558e",
+        "id": "9cedb67d-3337-4567-9722-e71cd9827623",
         "name": "Producto 79",
-        "stock": 6,
-        "price": 441.65,
+        "stock": 3,
+        "price": 465.08,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/278",
-        "category": "nuevos"
+        "category": "books"
     },
     {
-        "id": "4315ffde-3104-41b5-bc8f-e4fb3e7f2a67",
+        "id": "61572ad9-69da-4305-b90b-5b4451470972",
         "name": "Producto 80",
-        "stock": 13,
-        "price": 697.79,
+        "stock": 12,
+        "price": 31.58,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/279",
-        "category": "populares"
+        "category": "clothes"
     },
     {
-        "id": "c0484f5a-625e-49e5-9cce-ce9a99c27a2a",
+        "id": "0805eed9-801c-49cf-93af-637d5e6f9dc7",
         "name": "Producto 81",
-        "stock": 86,
-        "price": 586.66,
+        "stock": 78,
+        "price": 245.06,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/280",
-        "category": "ofertas"
+        "category": "books"
     },
     {
-        "id": "9e71db43-11fb-42fc-b635-c8c6dc24e9f1",
+        "id": "4acaed04-d028-471c-84aa-6223f20a855c",
         "name": "Producto 82",
-        "stock": 9,
-        "price": 882.34,
+        "stock": 38,
+        "price": 336.12,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/281",
-        "category": "populares"
+        "category": "sports"
     },
     {
-        "id": "62940ca0-e192-4f01-8df3-0a6662948fc3",
+        "id": "4ab0b33d-7935-4d2c-9f6e-35a66b6ef083",
         "name": "Producto 83",
-        "stock": 99,
-        "price": 612.68,
+        "stock": 2,
+        "price": 375.56,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/282",
-        "category": "ofertas"
+        "category": "books"
     },
     {
-        "id": "925e6f9e-f0a2-4f1f-915a-a4a870e2652f",
+        "id": "304e22ab-b839-42e3-8544-f824363d2706",
         "name": "Producto 84",
-        "stock": 53,
-        "price": 589.87,
+        "stock": 14,
+        "price": 391.39,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/283",
-        "category": "ofertas"
+        "category": "books"
     },
     {
-        "id": "422ebdd3-7418-4052-b1d8-d594cd2dc8da",
+        "id": "a3ea28de-f2d3-439a-90f0-92376dedef49",
         "name": "Producto 85",
-        "stock": 94,
-        "price": 323.24,
+        "stock": 57,
+        "price": 876.24,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/284",
-        "category": "destacados"
+        "category": "books"
     },
     {
-        "id": "08c038b3-1539-40a5-93be-ffe2013d423e",
+        "id": "65e1a7c3-f35c-4d8d-8f79-76fb2df00ba5",
         "name": "Producto 86",
-        "stock": 24,
-        "price": 338.91,
+        "stock": 78,
+        "price": 719.24,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/285",
-        "category": "populares"
+        "category": "clothes"
     },
     {
-        "id": "6345260e-22e9-4840-a7e6-8b2bc8b16921",
+        "id": "22975a51-84e3-4dee-90e9-6f075e8bcc98",
         "name": "Producto 87",
-        "stock": 30,
-        "price": 898.48,
+        "stock": 83,
+        "price": 684.93,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/286",
-        "category": "ofertas"
+        "category": "sports"
     },
     {
-        "id": "789982c5-fe80-41ae-8662-dc4d64259546",
+        "id": "5a4c2000-81ed-4036-bbfd-881cc2840ec7",
         "name": "Producto 88",
-        "stock": 14,
-        "price": 449.16,
+        "stock": 89,
+        "price": 783.09,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/287",
-        "category": "populares"
+        "category": "others"
     },
     {
-        "id": "5ef3264b-4f73-4e2f-b453-5dacce939801",
+        "id": "bd49dc26-f491-43df-8ebc-492ffc6ce99a",
         "name": "Producto 89",
-        "stock": 66,
-        "price": 427.15,
+        "stock": 1,
+        "price": 878.07,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/288",
-        "category": "destacados"
+        "category": "others"
     },
     {
-        "id": "bcb9d9df-5dee-48f2-86d4-49d64a24f851",
+        "id": "14a645a0-f70d-4957-9724-b6940f287f5c",
         "name": "Producto 90",
-        "stock": 63,
-        "price": 676.68,
+        "stock": 47,
+        "price": 561.66,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/289",
-        "category": "populares"
+        "category": "clothes"
     },
     {
-        "id": "f5b137a6-8ca6-4c1f-811e-ddb7c6a14305",
+        "id": "13445d1a-f3db-4a67-a170-4cfed4028ba7",
         "name": "Producto 91",
-        "stock": 98,
-        "price": 642.37,
+        "stock": 35,
+        "price": 60.82,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/290",
-        "category": "ofertas"
+        "category": "sports"
     },
     {
-        "id": "c9c6d4fd-d072-4b84-9e5c-a8833815e403",
+        "id": "26c60954-84a7-4dc8-a3ab-32d2011d715c",
         "name": "Producto 92",
-        "stock": 53,
-        "price": 119.49,
+        "stock": 86,
+        "price": 176.77,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/291",
-        "category": "ofertas"
+        "category": "others"
     },
     {
-        "id": "0e303238-d28d-40b7-b20d-f23ccd6f67e2",
+        "id": "24a17f44-e247-4958-adc2-c06c9e664cde",
         "name": "Producto 93",
-        "stock": 65,
-        "price": 912.21,
+        "stock": 19,
+        "price": 298.37,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/292",
-        "category": "ofertas"
+        "category": "others"
     },
     {
-        "id": "3b71292c-1c5b-4fc1-889b-f3732553501a",
+        "id": "c5a8b575-f786-47c0-819a-e963583c0366",
         "name": "Producto 94",
-        "stock": 55,
-        "price": 89.88,
+        "stock": 15,
+        "price": 614.78,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/293",
-        "category": "ofertas"
+        "category": "clothes"
     },
     {
-        "id": "a8f685cc-3460-4cba-942c-bc69efd42fc1",
+        "id": "7b67c1fc-4d9a-4d71-9aa3-1f1ce9f517d2",
         "name": "Producto 95",
-        "stock": 93,
-        "price": 870.26,
+        "stock": 66,
+        "price": 726.94,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/294",
-        "category": "populares"
+        "category": "others"
     },
     {
-        "id": "4a6b662e-7ad7-4ec8-af27-aa5839633c60",
+        "id": "e682bca1-19ea-43e4-960e-48fd5c4d039e",
         "name": "Producto 96",
-        "stock": 36,
-        "price": 898.51,
+        "stock": 49,
+        "price": 674.8,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/295",
-        "category": "nuevos"
+        "category": "sports"
     },
     {
-        "id": "50057fb0-bcb1-47c2-aa9d-0f75b60ab2e8",
+        "id": "0034b4b8-9a18-4b5f-8d17-56ea14280b20",
         "name": "Producto 97",
-        "stock": 60,
-        "price": 775.05,
+        "stock": 89,
+        "price": 737.39,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/296",
-        "category": "nuevos"
+        "category": "books"
     },
     {
-        "id": "86406dc4-4e29-47fd-9331-d05bd2c04175",
+        "id": "0defccd4-e0e5-4133-9ef9-55763b1ed6da",
         "name": "Producto 98",
-        "stock": 89,
-        "price": 723.69,
+        "stock": 80,
+        "price": 368.57,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/297",
-        "category": "destacados"
+        "category": "sports"
     },
     {
-        "id": "cca9f013-6012-494b-91d7-277b274c726c",
+        "id": "5b7e054d-d2b9-4c28-9f27-2bdb7cc47dd2",
         "name": "Producto 99",
-        "stock": 71,
-        "price": 192.01,
+        "stock": 2,
+        "price": 23.8,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/298",
-        "category": "populares"
+        "category": "books"
     },
     {
-        "id": "be890b11-eb22-4e71-9162-3ad59f848390",
+        "id": "32ff7370-2276-49fa-851e-0ae678190c2c",
         "name": "Producto 100",
-        "stock": 83,
-        "price": 666.04,
+        "stock": 64,
+        "price": 972.15,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "img": "https://picsum.photos/299",
-        "category": "ofertas"
+        "category": "clothes"
     }
 ]

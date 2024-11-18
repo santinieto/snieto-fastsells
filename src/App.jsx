@@ -2,21 +2,24 @@ import './App.css'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import NavbarComponent from './components/NavbarComponent'
 import ItemListComponent from './components/ItemListComponent'
-import ComponenteConChildren from './EjemploChildren/ComponenteConChildren';
 import ItemDetailContainer from './components/ItemDetailContainer'
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 function App() {
   
   return (
-    <>
+    <BrowserRouter>
+      {/* La barra de navegacion se muestra siempre*/}
       <NavbarComponent params={{ brand: "FastSells" }} />
       
-      <ComponenteConChildren text="Obtener productos (Metodo Children)">
-        <ItemListComponent params={{ greetings: "Bienvenidos al E-commerce" }} />
-      </ComponenteConChildren>
+      <Routes>
+        <Route path='/' element={<ItemListComponent inputs={{ greetings: "Bienvenidos al E-commerce" }} />} />
+        <Route path='/products' element={<ItemListComponent inputs={{ greetings: "Bienvenidos al E-commerce" }} />} />
+        <Route path='/products/:category' element={<ItemListComponent inputs={{ greetings: "Filtado por categoria: " }} />} />
+        <Route path='/item/:id' element={<ItemDetailContainer />} />
+      </Routes>
       
-      <ItemDetailContainer />
-    </>
+    </BrowserRouter>
   )
 }
 

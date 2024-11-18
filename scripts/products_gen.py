@@ -4,7 +4,7 @@ import uuid
 
 # Ejemplo de uso
 num_products = 100  # Especifica la cantidad de productos
-categories = ["nuevos", "ofertas", "populares", "destacados"]  # Lista de categorías
+categories = ["sports", "clothes", "books", "others"]  # Lista de categorías
 
 def generate_products(num_products, categories):
     products = []
@@ -21,7 +21,7 @@ def generate_products(num_products, categories):
         products.append(product)
     return products
 
-def save_to_json(products, filename="mocks/products.json"):
+def save_to_json(products, filename="public/mocks/products.json"):
     with open(filename, "w") as file:
         json.dump(products, file, indent=4)
 

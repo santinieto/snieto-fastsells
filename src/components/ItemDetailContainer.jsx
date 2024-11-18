@@ -1,25 +1,40 @@
 import React from "react";
 import { useState, useEffect } from  "react"
-import { getOneProduct } from "../../mocks/data";
+import { getOneProduct } from "../../mocks/useFetchMock";
 import ItemDetailComponent from "./ItemDetailComponent";
+import { useParams } from "react-router-dom";
 
 const ItemDetailContainer = () => {
-    const [product, setProduct] = useState({})
-    
+    const [product, setProduct] = useState({});
+    const [loading, setLoading] = useState(true);
+    const [error, setError] = useState(null);
+    const params = useParams();
+
     useEffect(() => {
-        getOneProduct("1")
+        setLoading(true);
+        getOneProduct(params.id)
         .then((product) => {
-            setProduct(product)
+            console.log(product);
+            setProduct(product);
         })
-        .catch((err) => console.log(err))
-    })
-    
+        .catch((err) => {
+            console.log(err);
+            setError(err.message);
+        })
+        .finally(() => {
+            setLoading(false);
+        })
+    }, []); // Ejecuta una sola vez al montar el componente
+
+    if (loading) return <p>Cargando producto...</p>;
+    if (error) return <p>Error: {error}</p>;
+
     return (
         <div>
-            <ItemDetailComponent product={product}/>
+            <ItemDetailComponent product={product} />
         </div>
-    )
-}
+    );
+};
 
 export default ItemDetailContainer
 
