@@ -12,8 +12,12 @@ const ItemCount = ({stock, onAdd}) => {
     }
     
     const onAddHandler = () => {
-        onAdd(count)
-        setCount(0)
+        if (count > stock) {
+            alert("No hay stock suficiente")
+        } else if (count != 0) {
+            onAdd(count)
+            setCount(0)
+        }
     }
     
     return (
