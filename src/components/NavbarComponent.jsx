@@ -25,7 +25,7 @@ const NavbarComponent = ({ params }) => {
                     <NavDropdown.Item as={NavLink} to="products/others">Otros</NavDropdown.Item>
                 </NavDropdown>
                 </Nav>
-                <Nav.Link href="cart"><CartWidget params={{ counter: 2 }}/></Nav.Link>
+                <Nav as={NavLink} to="/cart"><CartWidget /></Nav>
             </Navbar.Collapse>
             </Container>
         </Navbar>
