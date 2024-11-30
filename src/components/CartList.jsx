@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import { useCart } from "../context/CartContext";
 import CartItem from './CartItem';
 
@@ -15,7 +16,7 @@ const CartList = () => {
             <span className="cartSummary">Tu carrito tiene {getCartCount()} productos por un total de ${getCartTotal()}</span>
             <div className="cartButtons">
                 <button className="btn btn-danger" onClick={cartClear}>Borrar carrito</button>
-                <button className="btn btn-primary" >Confirmar compra</button>
+                <Link to={`/checkout`} className="btn btn-primary">Confirmar compra</Link>
             </div>
         </div>
     )

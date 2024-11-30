@@ -198,3 +198,17 @@
   align-items: center;
   justify-content: space-around;
 }
+
+.checkoutFormContainer {
+  padding: 20px;
+}
+
+.checkoutForm {
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+}
+
+.checkoutForm button {
+  margin-top: 20px;
+}
