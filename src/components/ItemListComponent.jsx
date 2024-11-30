@@ -10,6 +10,12 @@ const ItemListComponent = ({inputs}) => {
     // let { products, loading, error } = useFetchMock();
     // const { category } = useParams()
     
+    // if (category) {
+    //     products = products.filter(product => {
+    //         return product.category === category;
+    //     })
+    // }
+    
     // FIREBASE
     const [products, setProducts] = useState([]);
     const [loading, setLoading] = useState(false);
@@ -56,12 +62,6 @@ const ItemListComponent = ({inputs}) => {
     // Esto va siempre
     if (loading) return <p>Cargando productos...</p>;
     if (error) return <p>Error: {error}</p>;
-    
-    if (category) {
-        products = products.filter(product => {
-            return product.category === category;
-        })
-    }
     
     return (
         <div className="ItemListContainer">
