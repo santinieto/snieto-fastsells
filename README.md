@@ -41,7 +41,7 @@ FastSells es un proyecto de E-commerce desarrollado con React. La aplicación pe
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/FastSells.git
+   git clone https://github.com/santinieto/snieto-fastsells
    cd FastSells
    ```
 
@@ -55,7 +55,7 @@ FastSells es un proyecto de E-commerce desarrollado con React. La aplicación pe
    npm start
    ```
 
-La aplicación estará disponible en `http://localhost:3000/`.
+La aplicación estará disponible en `http://localhost:<puerto>/`.
 
 ## Código de Ejemplo
 
