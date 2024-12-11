@@ -3,14 +3,15 @@ import { useState, useEffect } from  "react"
 import { getOneProduct } from "../../mocks/useFetchMock";
 import ItemDetailComponent from "./ItemDetailComponent";
 import { useParams } from "react-router-dom";
-import { collection, query, getDocs, where } from "firebase/firestore";
+import { collection, doc, query, getDoc, getDocs, where } from "firebase/firestore";
 import { db } from "../services/firebase";
 
 const ItemDetailContainer = () => {
     const [product, setProduct] = useState({});
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState(null);
-    const params = useParams();
+    // const params = useParams();
+    const { id } = useParams()
 
     // // USO EL MOCK
     // useEffect(() => {
@@ -34,28 +35,40 @@ const ItemDetailContainer = () => {
         setLoading(true);
         // Creamos una referencia con una consulta usando `where`
         const productsCollection = collection(db, "productos");
-        const docQuery = query(productsCollection, where("id", "==", params.id));
         
-        // Obtengo la informacion del producto
-        getDocs(docQuery)
-        .then((res) => {
-            if (!res.empty) {
-                // Extraemos el primer documento que coincide
-                const doc = res.docs[0];
-                setProduct({
-                    id: doc.id, // El ID asignado por Firebase
-                    ...doc.data() // Los datos del documento, incluido el campo `id`
-                });
-            } else {
-                console.log("El documento no existe");
-                setError("Producto no encontrado");
-            }
-        })
-        .catch((error) => {
-            console.log(error);
-            setError(true);
-        })
-        .finally(() => setLoading(false))
+        // Busco por ID de Firebase
+        //creamos una referencia
+        const docRef = doc(productsCollection, id)
+        // const docRef = doc(db, "productos", id)
+        //traer el documento
+        getDoc(docRef)
+        .then((res)=> setProduct({id: res.id, ...res.data()}))
+        .catch((error)=> console.log(error))
+        .finally(()=> setLoading(false))
+        
+        // // Busco por ID interno del JSON
+        // const docQuery = query(productsCollection, where("internal_id", "==", params.id));
+        
+        // // Obtengo la informacion del producto
+        // getDocs(docQuery)
+        // .then((res) => {
+        //     if (!res.empty) {
+        //         // Extraemos el primer documento que coincide
+        //         const doc = res.docs[0];
+        //         setProduct({
+        //             id: doc.id, // El ID asignado por Firebase
+        //             ...doc.data() // Los datos del documento, incluido el campo `id`
+        //         });
+        //     } else {
+        //         console.log("El documento " + params.id + " no existe");
+        //         setError("Producto no encontrado");
+        //     }
+        // })
+        // .catch((error) => {
+        //     console.log(error);
+        //     setError(true);
+        // })
+        // .finally(() => setLoading(false))
     }, []);  // Ejecuta una sola vez al montar el componente
 
     if (loading) return <p>Cargando producto...</p>;

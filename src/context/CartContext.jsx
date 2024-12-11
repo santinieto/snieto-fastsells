@@ -1,9 +1,16 @@
-import { createContext, useContext, useState } from 'react';
+import { createContext, useContext, useState, useEffect} from 'react';
 
 export const CartContext = createContext();
+const prodFromLocalStorage = JSON.parse(localStorage.getItem('cart')) || []
 
 export const CartProvider = ({children}) => {
-    const [cart, setCart] = useState([])
+    const [cart, setCart] = useState(prodFromLocalStorage)
+    
+    //LocalStorage - Carrito persistente
+    useEffect(()=>{
+        localStorage.setItem('cart',JSON.stringify(cart))
+    },[cart])
+
     
     const addToCart = (item, quantity) => {
         // console.log(item, quantity, "Recibido por parametro")
@@ -41,9 +48,21 @@ export const CartProvider = ({children}) => {
     const cartClear = () => {
         setCart([])
     }
+
+    // DESCONTAR STOCK LOCAL
+    const itemQuantity = (id) => {
+        const itemInCart = cart.find((prod)=> prod.id === id)
+        if(itemInCart){
+            //devuelve la cantidad de ese item en el carrito
+            return itemInCart.cantidad
+        }else{
+            //No existe en el carrito, devuelve 0
+            return 0
+        }
+    }
     
     return (
-        <CartContext.Provider value={{cart, addToCart, removeFromCart, getCartCount, getCartTotal, cartClear}}>
+        <CartContext.Provider value={{cart, addToCart, removeFromCart, getCartCount, getCartTotal, cartClear, itemQuantity}}>
             {children}
         </CartContext.Provider>
     )

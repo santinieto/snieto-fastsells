@@ -75,7 +75,7 @@ const Checkout = () => {
                     })
                 })
                 .catch((error) => {
-                    console.log('Se produjo un error al actualizar el stock')
+                    console.log('Se produjo un error al actualizar el stock' + error.message)
                 })
             })
             
