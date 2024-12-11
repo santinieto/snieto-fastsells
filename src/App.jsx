@@ -9,6 +9,7 @@ import { useState } from 'react';
 import { CartProvider } from './context/CartContext';
 import CartView from './components/CartView';
 import Checkout from './components/Checkout';
+import CheckoutUseForm from './components/CheckoutUseForm';
 
 function App() {
   const [count, setCount] = useState(0)
