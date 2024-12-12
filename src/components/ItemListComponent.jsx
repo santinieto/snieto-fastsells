@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 import { useParams } from 'react-router-dom';
 import { addDoc, collection, getDocs, query, where } from 'firebase/firestore';
 import { db } from '../services/firebase';
+import ItemList from './ItemList'
 
 const ItemListComponent = ({inputs}) => {
     // // MOCK LOCAL
@@ -60,8 +61,8 @@ const ItemListComponent = ({inputs}) => {
     }
     
     // Esto va siempre
-    if (loading) return <p>Cargando productos...</p>;
-    if (error) return <p>Error: {error}</p>;
+    if (loading) return <div className="ItemListContainer">Cargando productos...</div>;
+    if (error) return <div className="ItemListContainer">Error: {error}</div>;
     
     return (
         <div className="ItemListContainer">
@@ -75,22 +76,7 @@ const ItemListComponent = ({inputs}) => {
             <h1 className="ItemListHeader">
                 {inputs.greetings}
             </h1>
-            <div className="ItemListBody">
-                {products && products.map((product) => (
-                    <div key={product.id} className="itemCard">
-                        <img src={product.img} className="itemImage" alt="Product Image" />
-                            <div className="itemCardBody">
-                                <div className='itemCategory'>{product.category}</div>
-                                <div>
-                                    <h5 className="itemTitle">{product.name}</h5>
-                                    <h4>${product.price}</h4>
-                                </div>
-                                <p className="itemDescription">{product.description}</p>
-                                <Link to={`/item/${product.id}`} className="btn btn-info">Más información</Link>
-                            </div>
-                    </div>
-                ))}
-            </div>
+            <ItemList products={products}/>
         </div>
     )
 }

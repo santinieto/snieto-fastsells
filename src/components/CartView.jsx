@@ -10,7 +10,9 @@ const CartView = () => {
             {!cart.length 
             ? <EmptyCart/> 
             : <div>
-                <h2>Tu carrito</h2>
+                <div className="cartTitle">
+                    <h2>Tu carrito</h2>
+                </div>
                 <CartList/>
             </div>
             }

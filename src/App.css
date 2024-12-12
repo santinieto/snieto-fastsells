@@ -58,6 +58,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  text-align: center;
 }
 
 .ItemListHeader {
@@ -162,10 +163,25 @@
   color: white;
 }
 
+.itemDetailBtns {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.itemDetailBtns a {
+  width: 45%;
+}
+
 .notFoundImage {
   width: 700px;
   margin: 20px auto;
   border-radius: 20px;
+}
+
+.cartTitle {
+  text-align: center;
+  margin: 20px 0px;
 }
 
 .cartList {
@@ -177,8 +193,8 @@
 
 .cartSummary {
   background-color: rgb(137, 167, 87);
-  margin: auto;
   padding: 20px;
+  margin: 20px auto;
   border-radius: 20px;
 }
 

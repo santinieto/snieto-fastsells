@@ -22,7 +22,7 @@ const ItemDetail = ({product}) => {
                 <p className="card-text">{product.description}</p>
                 <p className="card-text"><small className="text-muted">In stock: {product.stock}</small></p>
                 {buyFlag ?
-                    <div>
+                    <div className="itemDetailBtns">
                         <Link to={`/products`} className="btn btn-info">Seguir comprando</Link>
                         <Link to={`/cart`} className="btn btn-dark">Volver al carrito</Link>
                     </div>
