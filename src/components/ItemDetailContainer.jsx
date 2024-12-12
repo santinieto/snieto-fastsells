@@ -79,8 +79,8 @@ const ItemDetailContainer = () => {
         // .finally(() => setLoading(false))
     }, []);  // Ejecuta una sola vez al montar el componente
 
-    if (loading) return <p>Cargando producto...</p>;
-    if (error) return <p>Error: {error}</p>;
+    if (loading) return <div className="ItemListContainer">Cargando producto...</div>;
+    if (error) return <div className="ItemListContainer">Error: {error}</div>;
 
     return (
         <div>
@@ -88,7 +88,7 @@ const ItemDetailContainer = () => {
             loading ?
             <Loader/> 
             : invalidItem ?
-                <div>
+                <div className="ItemListContainer">
                     <h3>El producto no existe!</h3>
                     <Link to='/' className='btn btn-dark'>Volver a home</Link>
                 </div> 

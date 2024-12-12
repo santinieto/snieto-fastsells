@@ -96,25 +96,33 @@ const Checkout = () => {
             <div>
                 <h4>Completa con tus datos</h4>
                 <form action="" className='checkoutForm d-flex flex-column' onSubmit={finalizarForm}>
-                    <label htmlFor="">Nombre</label>
-                    <input type="text" name="name" id="name" placeholder='Nombre' onChange={userData} />
                     
-                    <label htmlFor="">Apellido</label>
-                    <input type="text" name="lastname" id="lastname" placeholder='Apellido' onChange={userData} />
-                    
-                    <label htmlFor="">Telefono</label>
-                    <input type="tel" name="tel" id="tel" placeholder='Telefono' onChange={userData} />
-                    
-                    <label htmlFor="">Direccion</label>
-                    <input type="text" name="adress" id="adress" placeholder='Nombre' onChange={userData} />
-                    
-                    <label htmlFor="">Correo</label>
-                    <input type="email" name="email" id="email" placeholder='Correo' onChange={userData} />
-                    
+                    <div className="checkoutFormInput">
+                        <label htmlFor="">Nombre</label>
+                        <input type="text" name="name" id="name" placeholder='Nombre' onChange={userData} />
+                    </div>
+                    <div className="checkoutFormInput">
+                        <label htmlFor="">Apellido</label>
+                        <input type="text" name="lastname" id="lastname" placeholder='Apellido' onChange={userData} />
+                    </div>
+                    <div className="checkoutFormInput">
+                        <label htmlFor="">Telefono</label>
+                        <input type="tel" name="tel" id="tel" placeholder='Telefono' onChange={userData} />
+                    </div>
+                    <div className="checkoutFormInput">
+                        <label htmlFor="">Direccion</label>
+                        <input type="text" name="adress" id="adress" placeholder='Nombre' onChange={userData} />
+                    </div>
+                    <div className="checkoutFormInput">
+                        <label htmlFor="">Correo</label>
+                        <input type="email" name="email" id="email" placeholder='Correo' onChange={userData} />
+                    </div>
+                    <div className="checkoutFormInput">
                     <label htmlFor="">Repita su correo</label>
-                    <input type="email" name="emailConfirm" id="emailConfirm" placeholder='Correo' onChange={(e) => {
-                        setValidate(e.target.value)
-                        }} />
+                        <input type="email" name="emailConfirm" id="emailConfirm" placeholder='Correo' onChange={(e) => {
+                            setValidate(e.target.value)
+                            }} />
+                    </div>
                     
                     <button className='btn btn-primary'>Completar compra</button>
                 </form> 

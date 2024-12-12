@@ -217,12 +217,25 @@
 
 .checkoutFormContainer {
   padding: 20px;
+  width: 50%;
+  margin: auto;
 }
 
 .checkoutForm {
   display: flex;
   flex-direction: column;
   row-gap: 10px;
+}
+
+.checkoutForm label {
+  padding-left: 5px;
+  width: 20%;
+}
+
+.checkoutForm input {
+  border-radius: 10px;
+  padding: 5px;
+  width: 80%;
 }
 
 .checkoutForm button {
