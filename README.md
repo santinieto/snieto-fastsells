@@ -107,7 +107,3 @@ export default App;
 - **Autenticación de Usuarios:** Añadir registro e inicio de sesión.
 - **Integración con Backend:** Conectar con una API para gestionar datos de productos y órdenes.
 - **Mejoras de UI/UX:** Optimizar el diseño y mejorar la experiencia de usuario.
-
-## Licencia
-
-Este proyecto está licenciado bajo la [MIT License](https://opensource.org/licenses/MIT).
