@@ -16,7 +16,6 @@ const NavbarComponent = ({ params }) => {
                 <Nav as={NavLink} className="navButton" to="/">Inicio</Nav>
                 <Nav as={NavLink} className="navButton" to="/products">Productos</Nav>
                 <Nav as={NavLink} className="navButton" to="/favorites">Favoritos</Nav>
-                <Nav as={NavLink} className="navButton" to="/checkout">Completar compra</Nav>
                 <NavDropdown title="Categorías" id="basic-nav-dropdown">
                     <NavDropdown.Item as={NavLink} to="products/sports">Deportes</NavDropdown.Item>
                     <NavDropdown.Item as={NavLink} to="products/clothes">Ropa</NavDropdown.Item>

@@ -5,6 +5,7 @@ import ItemDetailComponent from "./ItemDetailComponent";
 import { useParams } from "react-router-dom";
 import { collection, doc, query, getDoc, getDocs, where } from "firebase/firestore";
 import { db } from "../services/firebase";
+import { Link } from "react-router-dom";
 
 const ItemDetailContainer = () => {
     const [product, setProduct] = useState({});
@@ -12,6 +13,7 @@ const ItemDetailContainer = () => {
     const [error, setError] = useState(null);
     // const params = useParams();
     const { id } = useParams()
+    const [invalidItem, setInvalidItem]= useState(false)
 
     // // USO EL MOCK
     // useEffect(() => {
@@ -42,7 +44,13 @@ const ItemDetailContainer = () => {
         // const docRef = doc(db, "productos", id)
         //traer el documento
         getDoc(docRef)
-        .then((res)=> setProduct({id: res.id, ...res.data()}))
+        .then((res)=> {
+            if(res.data()){
+                setProduct({id: res.id, ...res.data()})
+            } else {
+                setInvalidItem(true)
+            }
+        })
         .catch((error)=> console.log(error))
         .finally(()=> setLoading(false))
         
@@ -76,7 +84,16 @@ const ItemDetailContainer = () => {
 
     return (
         <div>
-            <ItemDetailComponent product={product} />
+        {
+            loading ?
+            <Loader/> 
+            : invalidItem ?
+                <div>
+                    <h3>El producto no existe!</h3>
+                    <Link to='/' className='btn btn-dark'>Volver a home</Link>
+                </div> 
+                : <ItemDetailComponent product={product} />
+        }
         </div>
     );
 };
